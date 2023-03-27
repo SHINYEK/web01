@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.div_menu a{
+		color: pink;
+		font-size: 1.5rem;
+		text-decoration: none;
+		padding-right:30px;
+	}
